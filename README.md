@@ -10,7 +10,7 @@
 #   项目资料获取方式
 *   需要资料或者有任何问题的加QQ：2684634017
 
-*   项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=12448
+*   项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=12448
 
 #  项目演示视频：https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/12448/spingboot%E8%8C%B6%E6%96%87%E5%8C%96%E6%8E%A8%E5%B9%BF%E7%B3%BB%E7%BB%9F.mp4
 
